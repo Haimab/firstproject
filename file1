@@ -1,2 +1,5 @@
 cp filename directoryname
-rm -rf filename
+rm -rf filename = remove the file
+cat filename = display the file contain
+vim filename = edit the file
+
