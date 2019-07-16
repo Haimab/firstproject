@@ -1,0 +1,2 @@
+777 pull permission for directory
+755 default permission for for directory
