@@ -1,2 +1,3 @@
 666 full permission for file
 644 default permission for file
+useradd name  = create user
